@@ -8217,3 +8217,29 @@ map:d17f75fe6fd7c5fb3838f01d31b9d9c2d3121a43
       skos:note     "Create mapping for free tracer 3" .
 
 
+
+<http://www.metarelate.net/metOcean/mapping/10d982a8968663c75b6ff10715d0bea129ad60b2>
+      rdf:type      mr:Mapping ;
+      dc:creator    <http://www.metarelate.net/metOcean/people/nhsavage> ;
+      dc:date       "2014-02-28T17:09:11.823631"^^xsd:dateTime ;
+      dc:replaces   map:f5fc42dcddf983a96040b56fd46049bcf6f540a6 ;
+      mr:invertible  "False" ;
+      mr:reason     "corrected metadata" ;
+      mr:source     <http://www.metarelate.net/metOcean/component/c349507c2803eca566a1fff9ad6ad0d0b6c95538> ;
+      mr:status     "Draft" ;
+      mr:target     <http://www.metarelate.net/metOcean/component/fbd3e7b0cd34e0f62f2fa8bc28692c546fe672ce> ;
+      skos:note     "Fix metadata to correct values post UM6.6" .
+
+map:f4a0cf3e637a83de89011d88f57a68bb06588b24
+      rdf:type      mr:Mapping ;
+      dc:creator    <http://www.metarelate.net/metOcean/people/nhsavage> ;
+      dc:date       "2014-02-28T17:13:29.610069"^^xsd:dateTime ;
+      dc:replaces   map:e731d7dcabafe3e18552eb1a69487a9d7bc9b68e ;
+      mr:invertible  "False" ;
+      mr:reason     "corrected metadata" ;
+      mr:source     <http://www.metarelate.net/metOcean/component/3e2b4fd4e333bf4ace2fd17c06fa87ebbad4eb4e> ;
+      mr:status     "Draft" ;
+      mr:target     <http://www.metarelate.net/metOcean/component/3bc1b7eab67d4cec73c06ce4b920284452da365e> ;
+      skos:note     "Updated metadata for post UM6.6" .
+
+

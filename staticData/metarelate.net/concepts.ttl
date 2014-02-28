@@ -14728,3 +14728,42 @@
 	.
 
 
+
+<http://www.metarelate.net/metOcean/component/fbd3e7b0cd34e0f62f2fa8bc28692c546fe672ce>
+      rdf:type      mr:Component ;
+      mr:hasFormat  metocFormat:cf ;
+      mr:hasProperty  <http://www.metarelate.net/metOcean/property/ab5ac235a3c2ddd084326ea3737a251eb3000f6e> ;
+      mr:hasProperty  <http://www.metarelate.net/metOcean/property/a00c2bf9458142470e52f6851b92c40d14dc500c> ;
+      mr:hasProperty  <http://www.metarelate.net/metOcean/property/0978eb6c4e445623ecea1a0ca8b228d31497d318> ;
+	.
+
+<http://www.metarelate.net/metOcean/component/f56c1609eeb95dfdac6e398ee866ca27e45b144f>
+      rdf:type      mr:Component ;
+      mr:hasFormat  metocFormat:cf ;
+      mr:hasProperty  <http://www.metarelate.net/metOcean/property/ab5ac235a3c2ddd084326ea3737a251eb3000f6e> ;
+      mr:hasProperty  <http://www.metarelate.net/metOcean/property/ad3b0dd4bf7264c6ddab01383e6631bcf0604c40> ;
+	.
+
+<http://www.metarelate.net/metOcean/property/ad3b0dd4bf7264c6ddab01383e6631bcf0604c40>
+      rdf:type      mr:Property ;
+      rdf:value     "free_tracer_7" ;
+      mr:name       cfm:long_name ;
+      mr:operator   openmathr1:eq ;
+	.
+
+<http://www.metarelate.net/metOcean/component/3bc1b7eab67d4cec73c06ce4b920284452da365e>
+      rdf:type      mr:Component ;
+      mr:hasFormat  metocFormat:cf ;
+      mr:hasProperty  <http://www.metarelate.net/metOcean/property/ab5ac235a3c2ddd084326ea3737a251eb3000f6e> ;
+      mr:hasProperty  <http://www.metarelate.net/metOcean/property/ad3b0dd4bf7264c6ddab01383e6631bcf0604c40> ;
+      mr:hasProperty  <http://www.metarelate.net/metOcean/property/a00c2bf9458142470e52f6851b92c40d14dc500c> ;
+	.
+
+<http://www.metarelate.net/metOcean/property/0978eb6c4e445623ecea1a0ca8b228d31497d318>
+      rdf:type      mr:Property ;
+      rdf:value     "free_tracer_6" ;
+      mr:name       cfm:long_name ;
+      mr:operator   openmathr1:eq ;
+	.
+
+
