@@ -8243,3 +8243,55 @@ map:f4a0cf3e637a83de89011d88f57a68bb06588b24
       skos:note     "Updated metadata for post UM6.6" .
 
 
+
+<http://www.metarelate.net/metOcean/mapping/0611fcc9f57d51c51bd67d3d04f5ef75b6cf62df>
+      rdf:type      mr:Mapping ;
+      dc:creator    <http://www.metarelate.net/metOcean/people/nhsavage> ;
+      dc:date       "2014-03-03T08:56:30.639100"^^xsd:dateTime ;
+      dc:replaces   map:a6b16f67e7ce0e19bec3eb1cdb53fa20e335fb8e ;
+      mr:invertible  "False" ;
+      mr:reason     "corrected metadata" ;
+      mr:source     <http://www.metarelate.net/metOcean/component/ebc0e11e4c28f5178a459423d2d2f9c424815926> ;
+      mr:status     "Draft" ;
+      mr:target     <http://www.metarelate.net/metOcean/component/edd55da8a363082fa5578ff45b57c8f7604fab6a> ;
+      skos:note     "Update metadata to correct values post UM6.6" .
+
+
+
+<http://www.metarelate.net/metOcean/mapping/846d44ea8119f088709dbed41380d1f6ff6d4446>
+      rdf:type      mr:Mapping ;
+      dc:creator    <http://www.metarelate.net/metOcean/people/nhsavage> ;
+      dc:date       "2014-03-03T09:55:39.652544"^^xsd:dateTime ;
+      mr:invertible  "False" ;
+      mr:reason     "new mapping" ;
+      mr:source     <http://www.metarelate.net/metOcean/component/8c6bff0abfbf1b15403779ea7d000a41a76c32b9> ;
+      mr:status     "Draft" ;
+      mr:target     <http://www.metarelate.net/metOcean/component/fbff45c60776cb85cb7e4417b647d4a553d172bf> ;
+      skos:note     "Create CF mapping for free tracer 8" .
+
+<http://www.metarelate.net/metOcean/mapping/248d5b5b122f2e1553b86feb17ef3aa05eae1aff>
+      rdf:type      mr:Mapping ;
+      dc:creator    <http://www.metarelate.net/metOcean/people/nhsavage> ;
+      dc:date       "2014-03-03T09:57:06.805025"^^xsd:dateTime ;
+      dc:replaces   <http://www.metarelate.net/metOcean/mapping/846d44ea8119f088709dbed41380d1f6ff6d4446> ;
+      mr:invertible  "False" ;
+      mr:reason     "new mapping" ;
+      mr:source     <http://www.metarelate.net/metOcean/component/8c6bff0abfbf1b15403779ea7d000a41a76c32b9> ;
+      mr:status     "Draft" ;
+      mr:target     <http://www.metarelate.net/metOcean/component/525ed42aa3ff67f57a93cd5d0637f556a8ae58ec> ;
+      skos:note     "Create CF mapping for free tracer 8" .
+
+
+
+<http://www.metarelate.net/metOcean/mapping/984888c1672f9f77a4071d6f4edeb6f43d86a180>
+      rdf:type      mr:Mapping ;
+      dc:creator    <http://www.metarelate.net/metOcean/people/nhsavage> ;
+      dc:date       "2014-03-06T08:20:00.235803"^^xsd:dateTime ;
+      mr:invertible  "False" ;
+      mr:reason     "new mapping" ;
+      mr:source     <http://www.metarelate.net/metOcean/component/4f63c4415a0a123f3a2a0d3b113aeb14b14cf84e> ;
+      mr:status     "Draft" ;
+      mr:target     <http://www.metarelate.net/metOcean/component/6fbde4400b01f37456bee35dee09f6658917b1e4> ;
+      skos:note     "Create metadata for free tracer 10" .
+
+
